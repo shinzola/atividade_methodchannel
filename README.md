@@ -32,20 +32,23 @@ meu_app/
 └─ src/main/kotlin/com/example/atividade2/
 └─ MainActivity.kt # Código Kotlin nativo
 
-## ⚡ Como executar
+#⚡ Como executar
 
-# Clone o repositório:
+## Clone o repositório:
 
 - git clone https://github.com/seu_usuario/flutter_methodchannel_example.git
 
-# Entre na pasta do projeto:
+## Entre na pasta do projeto:
 
 - cd flutter_methodchannel_example
 
-# Baixe as dependências:
+## Baixe as dependências:
 
 - flutter pub get
 
-# Rode no Android:
+## Rode no Android:
 
 - flutter run
+
+# Imagem do app:
+<img width="369" height="590" alt="image" src="https://github.com/user-attachments/assets/dadeda9d-d669-4de3-90c0-3bb815936618" />
